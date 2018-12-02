@@ -1,0 +1,12 @@
+C:\Users\dhuin\source\repos\XMusic\XMusic\bin\Debug\XMusic.exe.config
+C:\Users\dhuin\source\repos\XMusic\XMusic\bin\Debug\XMusic.exe
+C:\Users\dhuin\source\repos\XMusic\XMusic\bin\Debug\XMusic.pdb
+C:\Users\dhuin\source\repos\XMusic\XMusic\obj\Debug\XMusic.csprojAssemblyReference.cache
+C:\Users\dhuin\source\repos\XMusic\XMusic\obj\Debug\XMusic.Form1.resources
+C:\Users\dhuin\source\repos\XMusic\XMusic\obj\Debug\XMusic.Properties.Resources.resources
+C:\Users\dhuin\source\repos\XMusic\XMusic\obj\Debug\XMusic.csproj.GenerateResource.cache
+C:\Users\dhuin\source\repos\XMusic\XMusic\obj\Debug\XMusic.csproj.CoreCompileInputs.cache
+C:\Users\dhuin\source\repos\XMusic\XMusic\obj\Debug\XMusic.exe
+C:\Users\dhuin\source\repos\XMusic\XMusic\obj\Debug\XMusic.pdb
+C:\Users\dhuin\source\repos\XMusic\XMusic\obj\Debug\XMusic.csproj.CopyComplete
+C:\Users\dhuin\source\repos\XMusic\XMusic\bin\Debug\NAudio.xml
