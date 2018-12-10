@@ -39,7 +39,13 @@ namespace XMusic
                     {
                         listBox1.Items.Add(Path.GetFileName(file.FullName));
                     }
-                }
+                } else if (file.FullName.Contains(".wav"))
+                {
+                    if (!listbox1.Items.Contains(Path.GetFileName(file.FullName)))
+                    {
+                        listbox1.Items.Add(Path.GetFileName(file.FullName));
+                    }               
+                }              
             }
         }
         private WaveOutEvent outdevice;
